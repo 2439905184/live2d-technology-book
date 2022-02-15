@@ -10,3 +10,6 @@
 
 技术书籍：
 https://dafoam.github.io/docs/FFD/main.pdf
+
+开源代码:
+https://github.com/hboyadzhieva/deforming-techniques python 2d形变
