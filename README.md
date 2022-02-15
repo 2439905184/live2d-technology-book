@@ -11,5 +11,8 @@
 技术书籍：
 https://dafoam.github.io/docs/FFD/main.pdf
 
+使用了这项技术的软件:
+live2d（商业） spine（商业） dragonbones(开源) AnimeEffects(开源)
+
 开源代码:
 https://github.com/hboyadzhieva/deforming-techniques python 2d形变
