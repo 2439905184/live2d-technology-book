@@ -12,7 +12,13 @@
 https://dafoam.github.io/docs/FFD/main.pdf
 
 使用了这项技术的软件:
-live2d（商业） spine（商业） dragonbones(开源) AnimeEffects(开源)
+live2d（商业） spine（商业）  
+### 开源
+[inochi2d](https://github.com/Inochi2D/inochi2d/tree/main)
+
+[dragonbones](https://github.com/DragonBones/DragonBonesCPP)
+
+[AnimeEffects](https://github.com/hidefuku/AnimeEffects)
 
 开源代码:
 https://github.com/hboyadzhieva/deforming-techniques python 2d形变
